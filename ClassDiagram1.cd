@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Stoletov_4_0.Base_Form">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Stoletov_4_0.Base_Form.SlideState">
+        <TypeIdentifier>
+          <NewMemberFileName>Base_Form.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="Stoletov_4_0.Base_Form.obj">
+        <TypeIdentifier>
+          <NewMemberFileName>Base_Form.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gDQHWiAhAGCIECOINSbAiIQHoJrbJFAAYuhfCj6gHAI=</HashCode>
+      <FileName>Base_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stoletov_4_0.Program">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stoletov_4_0.Properties.Resources">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAhIAAgEAJSQAAgAABEACAAQABAAAAABAABAQQAIg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stoletov_4_0.Properties.Settings">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

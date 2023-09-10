@@ -1,0 +1,11 @@
+C:\Users\khabi\OneDrive\Рабочий стол\Programming\Programs on C#\StoletovInteractive\Stoletov 4_0\bin\Debug\Stoletov 4_0.exe.config
+C:\Users\khabi\OneDrive\Рабочий стол\Programming\Programs on C#\StoletovInteractive\Stoletov 4_0\bin\Debug\Stoletov 4_0.exe
+C:\Users\khabi\OneDrive\Рабочий стол\Programming\Programs on C#\StoletovInteractive\Stoletov 4_0\bin\Debug\Stoletov 4_0.pdb
+C:\Users\khabi\OneDrive\Рабочий стол\Programming\Programs on C#\StoletovInteractive\Stoletov 4_0\obj\Debug\Stoletov 4_0.csproj.AssemblyReference.cache
+C:\Users\khabi\OneDrive\Рабочий стол\Programming\Programs on C#\StoletovInteractive\Stoletov 4_0\obj\Debug\Stoletov 4_0.csproj.SuggestedBindingRedirects.cache
+C:\Users\khabi\OneDrive\Рабочий стол\Programming\Programs on C#\StoletovInteractive\Stoletov 4_0\obj\Debug\Stoletov_4_0.Properties.Resources.resources
+C:\Users\khabi\OneDrive\Рабочий стол\Programming\Programs on C#\StoletovInteractive\Stoletov 4_0\obj\Debug\Stoletov 4_0.csproj.GenerateResource.cache
+C:\Users\khabi\OneDrive\Рабочий стол\Programming\Programs on C#\StoletovInteractive\Stoletov 4_0\obj\Debug\Stoletov 4_0.csproj.CoreCompileInputs.cache
+C:\Users\khabi\OneDrive\Рабочий стол\Programming\Programs on C#\StoletovInteractive\Stoletov 4_0\obj\Debug\Stoletov 4_0.exe
+C:\Users\khabi\OneDrive\Рабочий стол\Programming\Programs on C#\StoletovInteractive\Stoletov 4_0\obj\Debug\Stoletov 4_0.pdb
+C:\Users\khabi\OneDrive\Рабочий стол\Programming\Programs on C#\StoletovInteractive\Stoletov 4_0\obj\Debug\Stoletov_4_0.Base_Form.resources
